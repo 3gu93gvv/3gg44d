@@ -22,3 +22,4 @@ if link['status']=="error":
 	quit()
 else:
 	link_key = link['shortenedUrl']
+print(link_key)
